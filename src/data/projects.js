@@ -51,14 +51,5 @@ export const projects = [
     github: "https://github.com/Yashwant176/MERN-Authorization-App",
     demo: "",
   },
-  {
-    id: 6,
-    title: "QuickShow (ongoing)",
-    description: "A movie ticket booking platform.",
-    tech: ["React", "Express Js", "Mongo DB", "Node JS","Postman"],
-    image: project5,
-    github: "",
-    demo: "",
-  },
 ];
 export default projects;
