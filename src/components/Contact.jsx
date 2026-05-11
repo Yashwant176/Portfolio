@@ -19,15 +19,16 @@ export default function Contact() {
         "service_cuzt4cz", // EmailJS service ID
         "template_gxck0al", // EmailJS template ID
         e.target,
-        "u-JB0VeRikXDDZ76N" // EmailJS public key
+        "u-JB0VeRikXDDZ76N", // EmailJS public key
       )
       .then(() => {
         alert("Message sent successfully!");
         setShowForm(false);
         e.target.reset();
       })
-      .catch(() => {
-        alert("Failed to send message. Try again.");
+      .catch((error) => {
+        console.log(error);
+        alert("Failed to send message");
       });
   };
 
