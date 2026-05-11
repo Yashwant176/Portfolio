@@ -25,6 +25,15 @@ export const projects = [
     demo: "https://devfolio-frontend-z9so.onrender.com/",
   },
   {
+    id: 6,
+    title: "Sweet Shop Management System",
+    description: "A comprehensive management system for sweet shops to handle inventory, sales, and customer orders efficiently.",
+    tech: ["React", "Django", "Tailwind CSS", "SQLite"],
+    image: project4,
+    github: "https://github.com/Yashwant176/sweetshop",
+    demo: "https://sweetshop-frontend-9g5r.onrender.com",
+  },
+  {
     id: 3,
     title: "Spring Travels",
     description: "A bus ticket booking web application that allows users to browse routes, select seats, and reserve tickets easily.",
@@ -51,15 +60,7 @@ export const projects = [
     github: "https://github.com/Yashwant176/MERN-Authorization-App",
     demo: "",
   },
-  {
-    id: 6,
-    title: "Todo List",
-    description: "A simple and efficient ToDo list app that allows users to add, check off, and manage tasks effectively.",
-    tech: ["React", "Express Js", "MongoDB", "Node Js"],
-    image: project4,
-    github: "https://github.com/Yashwant176/ToDo-List",
-    demo: "",
-  },
+  
 ];
 
 export default projects;

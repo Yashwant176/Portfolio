@@ -5,7 +5,7 @@ import cssLogo from "../assets/logos/css.png";
 import jsLogo from "../assets/logos/javascript.png";
 import pythonLogo from "../assets/logos/python.png";
 import djangoLogo from "../assets/logos/django.png";
-import javaLogo from "../assets/logos/java.png";
+import dockerLogo from "../assets/logos/docker.png";
 import mysqlLogo from "../assets/logos/mysql.png";
 import mongoLogo from "../assets/logos/mongodb.svg";
 import linuxLogo from "../assets/logos/linux.jpeg";
@@ -19,7 +19,7 @@ export const skills = [
   { name: "JavaScript", logo: jsLogo },
   { name: "Python", logo: pythonLogo },
   { name: "Django", logo: djangoLogo },
-  { name: "Java", logo: javaLogo },
+  { name: "Docker", logo: dockerLogo },
   { name: "MySQL", logo: mysqlLogo },
   { name: "MongoDB", logo: mongoLogo },
   { name: "Linux", logo: linuxLogo },
