@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import profilePic from "../assets/Profile.jpg"; // replace with your image
+import profilePic from "../assets/Profile.jpeg"; // replace with your image
 
 export default function About() {
   return (
@@ -21,17 +21,18 @@ export default function About() {
 
         <div className="flex flex-col">
           <p className="text-gray-300 text-lg mb-4">
-            Hi, I'm K. Yashwant Kumar, a Full Stack Developer passionate about
-            building modern, responsive web applications using React,
-            JavaScript, and Python. I enjoy learning new technologies and
-            constantly improving my skills.
+            Hi, I'm K Yashwant Kumar, a Python Full Stack Data Engineer at
+            Accenture, working as an Advanced App Engineering Associate (AASE). I
+            specialize in building modern, responsive web applications and
+            data-driven solutions using React, JavaScript, and Python. I enjoy
+            learning new technologies and constantly improving my skills.
           </p>
           <p className="text-gray-300 text-lg">
             I love transforming ideas into impactful projects, combining
-            creativity with technology to deliver exceptional solutions. Whether
-            it's building intuitive web applications, solving real-world
-            problems, or experimenting with cutting-edge tools, I'm always up
-            for a challenge.
+            creativity with technology to deliver exceptional solutions.
+            Whether it's building intuitive web applications, engineering data
+            pipelines, solving real-world problems, or experimenting with
+            cutting-edge tools, I'm always up for a challenge.
           </p>
         </div>
       </motion.div>

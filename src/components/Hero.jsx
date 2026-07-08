@@ -23,7 +23,7 @@ export default function Hero() {
         transition={{ duration: 1, delay: 0.5 }}
         className="text-xl md:text-xl text-gray-700 mb-20 text-center max-w-xl"
       >
-        Full Stack Developer | React & Python Enthusiast
+        Advanced App Engineering Associate @ Accenture
       </motion.p>
 
       {/* Buttons */}
