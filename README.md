@@ -1,16 +1,83 @@
-# React + Vite
+# Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive developer portfolio built using React and Vite. This project showcases my skills, projects, and contact information with smooth animations and an interactive user experience.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Portfolio Website: [https://yashwant.is-a.dev](https://yashwant.is-a.dev)
+* GitHub Pages: [https://yashwant176.github.io/Portfolio/](https://yashwant176.github.io/Portfolio/)
 
-## React Compiler
+## GitHub Repository
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Repository: [https://github.com/Yashwant176/Portfolio](https://github.com/Yashwant176/Portfolio)
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React
+* Vite
+* Tailwind CSS
+* Framer Motion
+* EmailJS
+* React Router DOM
+
+## Features
+
+* Responsive Design
+* Smooth Animations
+* Interactive UI
+* Project Showcase
+* Skills Section
+* Contact Form
+* Smooth Navigation
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Yashwant176/Portfolio.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd my-Portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+## Deployment
+
+This portfolio is deployed using:
+
+* Vercel: https://yashwant.is-a.dev
+* GitHub Pages: https://yashwant176.github.io/Portfolio/
+* GitHub Actions CI/CD
+
+
+## Author
+
+K Yashwant Kumar
+
+* GitHub: [https://github.com/Yashwant176](https://github.com/Yashwant176)
+* LinkedIn: [https://www.linkedin.com/in/kyashwantkumar](https://www.linkedin.com/in/kyashwantkumar)
+
+## License
+
+This project is open source and available under the MIT License.
